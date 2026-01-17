@@ -1,0 +1,420 @@
+2026-01-15 16:24:34.591 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:27:13.589 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:30:10.092 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:32:46.501 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:37:17.915 | ERROR | [http-nio-81-exec-9]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:38:09.313 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:09.673 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:11.004 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:11.699 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:11.959 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:12.178 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:12.354 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:32.540 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:33.747 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:34.476 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:34.644 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:34.788 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:39:34.931 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:43:27.937 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:15.920 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:17.048 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:17.612 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:17.807 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:17.968 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.115 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.250 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.401 | ERROR | [http-nio-81-exec-8]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.541 | ERROR | [http-nio-81-exec-9]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.690 | ERROR | [http-nio-81-exec-10]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.845 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:18.984 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:19.129 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:19.277 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:19.439 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:19.600 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:19.753 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:19.919 | ERROR | [http-nio-81-exec-8]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:46:20.064 | ERROR | [http-nio-81-exec-9]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:47:30.828 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Cannot deserialize
+
+                | EXCEPCIÓN: 
+2026-01-15 16:52:25.221 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:54:30.295 | ERROR | [http-nio-81-exec-9]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:11.069 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:12.631 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:13.151 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:13.511 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:13.672 | ERROR | [http-nio-81-exec-10]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:13.844 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:13.985 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:14.140 | ERROR | [http-nio-81-exec-8]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:40.632 | ERROR | [http-nio-81-exec-9]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:59.646 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:58:59.704 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:59:01.213 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:59:12.590 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 16:59:43.771 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:00:27.547 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:02:22.594 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:05:19.218 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:05:35.623 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected character ('¬' (code 172)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:06:25.988 | ERROR | [http-nio-81-exec-6]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:15:14.029 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Failed to parse type 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse' (remaining: ''): Cannot locate class 'com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse', problem: com.unu.ms.MsSecretariaAcademica.model.response.CatalogoResponse 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:19:11.345 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (START_ARRAY), expected VALUE_STRING: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:21:34.043 | ERROR | [http-nio-81-exec-10]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (START_ARRAY), expected VALUE_STRING: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:27:35.766 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (START_ARRAY), expected VALUE_STRING: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:27:42.074 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (START_ARRAY), expected VALUE_STRING: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:30:42.335 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class java.util.LinkedHashMap cannot be cast to class com.unu.ms.MsConsejo.model.response.CatalogoResponse (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; com.unu.ms.MsConsejo.model.response.CatalogoResponse is in unnamed module of loader 'app')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:30:54.944 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class java.util.LinkedHashMap cannot be cast to class com.unu.ms.MsConsejo.model.response.CatalogoResponse (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; com.unu.ms.MsConsejo.model.response.CatalogoResponse is in unnamed module of loader 'app')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:33:00.412 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class java.util.LinkedHashMap cannot be cast to class com.unu.ms.MsConsejo.model.response.CatalogoResponse (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; com.unu.ms.MsConsejo.model.response.CatalogoResponse is in unnamed module of loader 'app')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:33:01.678 | ERROR | [http-nio-81-exec-2]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class java.util.LinkedHashMap cannot be cast to class com.unu.ms.MsConsejo.model.response.CatalogoResponse (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; com.unu.ms.MsConsejo.model.response.CatalogoResponse is in unnamed module of loader 'app')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:33:13.410 | ERROR | [http-nio-81-exec-4]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class java.util.LinkedHashMap cannot be cast to class com.unu.ms.MsConsejo.model.response.CatalogoResponse (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; com.unu.ms.MsConsejo.model.response.CatalogoResponse is in unnamed module of loader 'app')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:35:24.198 | ERROR | [http-nio-81-exec-8]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class java.util.LinkedHashMap cannot be cast to class com.unu.ms.MsConsejo.model.response.CatalogoResponse (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; com.unu.ms.MsConsejo.model.response.CatalogoResponse is in unnamed module of loader 'app')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:36:49.442 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (`JsonToken.START_OBJECT`), expected `JsonToken.VALUE_STRING`: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); byte offset: #1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:38:53.345 | ERROR | [http-nio-81-exec-5]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (`JsonToken.START_OBJECT`), expected `JsonToken.VALUE_STRING`: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); byte offset: #1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:40:00.775 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (`JsonToken.START_OBJECT`), expected `JsonToken.VALUE_STRING`: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); byte offset: #1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:42:07.825 | ERROR | [http-nio-81-exec-3]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (`JsonToken.START_OBJECT`), expected `JsonToken.VALUE_STRING`: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); byte offset: #1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:47:28.909 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: Could not read JSON:Unexpected token (`JsonToken.START_OBJECT`), expected `JsonToken.VALUE_STRING`: need String, Number of Boolean value that contains type id (for subtype of java.lang.Object)
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); byte offset: #1] 
+
+                | EXCEPCIÓN: 
+2026-01-15 17:53:46.505 | ERROR | [http-nio-81-exec-7]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class com.unu.ms.MsConsejo.service.Imp.CatalogoListResponse cannot be cast to class java.util.List (com.unu.ms.MsConsejo.service.Imp.CatalogoListResponse is in unnamed module of loader 'app'; java.util.List is in module java.base of loader 'bootstrap')
+
+                | EXCEPCIÓN: 
+2026-01-15 17:53:49.500 | ERROR | [http-nio-81-exec-9]
+                | c.u.m.M.c.GlobalExceptionHandler:29
+                | MENSAJE: Error procesando la petición: class com.unu.ms.MsConsejo.service.Imp.CatalogoListResponse cannot be cast to class java.util.List (com.unu.ms.MsConsejo.service.Imp.CatalogoListResponse is in unnamed module of loader 'app'; java.util.List is in module java.base of loader 'bootstrap')
+
+                | EXCEPCIÓN: 
+2026-01-15 18:23:00.785 | ERROR | [http-nio-81-exec-1]
+                | c.u.m.M.c.GlobalExceptionHandler:84
+                | MENSAJE: Error de acceso a datos: could not execute statement [Cannot add or update a child row: a foreign key constraint fails (`bd_consejo`.`sesion_consejo`, CONSTRAINT `FKh4yht2ph1ie9pw4re80n2qcol` FOREIGN KEY (`id_consejo`) REFERENCES `consejo` (`id_consejo`))] [insert into sesion_consejo (id_consejo,descripcion,fecha_creacion,fecha_sesion,id_estado,id_tipo_sesion,nombre_sesion,numero_sesion,id_usuario_registro) values (?,?,?,?,?,?,?,?,?)]; SQL [insert into sesion_consejo (id_consejo,descripcion,fecha_creacion,fecha_sesion,id_estado,id_tipo_sesion,nombre_sesion,numero_sesion,id_usuario_registro) values (?,?,?,?,?,?,?,?,?)]; constraint [FKh4yht2ph1ie9pw4re80n2qcol]
+
+                | EXCEPCIÓN: 
+2026-01-15 20:20:41.839 | ERROR | [http-nio-81-exec-8]
+                | c.u.m.M.c.GlobalExceptionHandler:148
+                | MENSAJE: Error de acceso a datos: could not execute statement [Cannot delete or update a parent row: a foreign key constraint fails (`bd_consejo`.`asistencia_sesion`, CONSTRAINT `FKaxmx6bjg7ui3sajssfdefcfcy` FOREIGN KEY (`id_miembro`) REFERENCES `miembro_consejo` (`id_miembro`))] [delete from miembro_consejo where id_miembro=?]; SQL [delete from miembro_consejo where id_miembro=?]; constraint [FKaxmx6bjg7ui3sajssfdefcfcy]
+
+                | EXCEPCIÓN: 
